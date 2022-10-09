@@ -3,28 +3,31 @@
 	"name": "nao",
 	"patterns": [
 		{
-			"include": "#keywords"
+			"include": "#titles"
 		},
 		{
-			"include": "#strings"
+			"include": "#comments"
 		}
 	],
 	"repository": {
-		"keywords": {
-			"patterns": [{
-				"name": "keyword.control.nao",
-				"match": "\\b(if|while|for|return)\\b"
-			}]
-		},
-		"strings": {
-			"name": "string.quoted.double.nao",
-			"begin": "\"",
-			"end": "\"",
+		"titles": {
 			"patterns": [
 				{
-					"name": "constant.character.escape.nao",
-					"match": "\\\\."
-				}
+					"name": "markup.heading.2",
+					"match": "■.*$"
+				},
+				{
+					"name": "string.other",
+					"begin": "＜",
+					"end": "＞"
+				}		
+			]
+		},
+		"comments": {
+			"patterns": [{
+				"name": "comment.line.double-slash",
+				"match": "//.*$"
+			}
 			]
 		}
 	},
