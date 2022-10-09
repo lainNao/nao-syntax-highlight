@@ -2,8 +2,9 @@
   "name": "nao-syntax-highlight",
   "displayName": "nao-syntax-highlight",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "publisher": "nao",
+  "repository": "https://github.com/lainNao/nao-syntax-highlight",
   "engines": {
     "vscode": "^1.72.0"
   },
