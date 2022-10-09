@@ -26,7 +26,7 @@ search `nao-syntax-highlight` in vscode extension
 ## Releases
 - `0.0.1` 
     - `.nao`対応
-- `0.0.2`
+- `0.3.15`
     - `.txt`対応
 
 ## Update extension
