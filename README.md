@@ -8,13 +8,13 @@ VSCode extension for `.nao` extension file (super simple markdown for me).
 ＜...＞
 ```
 
-## install from local
+## install by local
 1. clone
     - `git clone https://github.com/lainNao/nao-syntax-highlight`
 2. build
     - `npx vsce package`
 3. install
-    - a
+    - `code --install-extension <now-created-file-name>`
 
-## development
+## local development
 - `F5` to open debugging window
