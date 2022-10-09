@@ -2,7 +2,7 @@
   "name": "nao-syntax-highlight",
   "displayName": "nao-syntax-highlight",
   "description": "",
-  "version": "0.1.0",
+  "version": "0.3.1",
   "publisher": "nao",
   "repository": "https://github.com/lainNao/nao-syntax-highlight",
   "engines": {
