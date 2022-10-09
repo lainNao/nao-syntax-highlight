@@ -3,6 +3,7 @@
   "displayName": "nao-syntax-highlight",
   "description": "",
   "version": "0.0.1",
+  "publisher": "lainNao",
   "engines": {
     "vscode": "^1.72.0"
   },
