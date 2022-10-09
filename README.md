@@ -8,7 +8,7 @@ VSCode extension for `.nao` extension file (super simple markdown for me).
 ＜...＞
 ```
 
-## install by local
+## Install from local
 1. clone
     - `git clone https://github.com/lainNao/nao-syntax-highlight`
 2. build
@@ -16,5 +16,11 @@ VSCode extension for `.nao` extension file (super simple markdown for me).
 3. install
     - `code --install-extension <now-created-file-name>`
 
-## local development
+## Local development
 - `F5` to open debugging window
+
+## Releases
+- `0.0.1` 
+    - `.nao`対応
+- `0.0.2`
+    - `.txt`対応

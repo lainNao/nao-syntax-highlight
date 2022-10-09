@@ -2,7 +2,7 @@
   "name": "nao-syntax-highlight",
   "displayName": "nao-syntax-highlight",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "nao",
   "engines": {
     "vscode": "^1.72.0"
@@ -14,7 +14,7 @@
     "languages": [{
       "id": "nao",
       "aliases": ["nao", "nao"],
-      "extensions": [".nao"],
+      "extensions": [".nao", ".txt"],
       "configuration": "./language-configuration.json"
     }],
     "grammars": [{
