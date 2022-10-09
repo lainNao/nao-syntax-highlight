@@ -1,0 +1,25 @@
+{
+  "name": "nao-syntax-highlight",
+  "displayName": "nao-syntax-highlight",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "nao",
+      "aliases": ["nao", "nao"],
+      "extensions": [".nao"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "nao",
+      "scopeName": "source.nao",
+      "path": "./syntaxes/nao.tmLanguage.json"
+    }]
+  }
+}
