@@ -23,12 +23,6 @@ search `nao-syntax-highlight` in vscode extension
 ## Local development
 - `F5` to open debugging window
 
-## Releases
-- `0.0.1` 
-    - `.nao`対応
-- `0.3.15`
-    - `.txt`対応
-
 ## Update extension
 1. get access token from `dev.azure.com`
 2. upload
