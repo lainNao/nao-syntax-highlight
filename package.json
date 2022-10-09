@@ -3,7 +3,7 @@
   "displayName": "nao-syntax-highlight",
   "description": "",
   "version": "0.3.14",
-  "publisher": "nao",
+  "publisher": "lainNao",
   "repository": "https://github.com/lainNao/nao-syntax-highlight",
   "engines": {
     "vscode": "^1.72.0"
