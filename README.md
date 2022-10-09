@@ -1,6 +1,8 @@
 # nao-syntax-highlight
 
-VSCode extension for `.nao` extension file (super simple markdown for me).
+## Description
+
+VSCode extension for `.nao` and `.txt` extension file (super simple markdown for me).
 
 ```
 //...
@@ -16,6 +18,8 @@ VSCode extension for `.nao` extension file (super simple markdown for me).
 3. install
     - `code --install-extension <now-created-file-name>`
 
+## Install from
+search `nao-syntax-highlight` in vscode extension
 ## Local development
 - `F5` to open debugging window
 
@@ -24,3 +28,8 @@ VSCode extension for `.nao` extension file (super simple markdown for me).
     - `.nao`対応
 - `0.0.2`
     - `.txt`対応
+
+## Update extension
+1. get access token from `dev.azure.com`
+2. upload
+   - `vsce publish [major|minor|patch]`
