@@ -18,8 +18,9 @@ VSCode extension for `.nao` and `.txt` extension file (super simple markdown for
 3. install
     - `code --install-extension <now-created-file-name>`
 
-## Install from
+## Install from　Marketplace
 search `nao-syntax-highlight` in vscode extension
+
 ## Local development
 - `F5` to open debugging window
 
