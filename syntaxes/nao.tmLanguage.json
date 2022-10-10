@@ -18,8 +18,7 @@
 				},
 				{
 					"name": "string.other",
-					"begin": "＜",
-					"end": "＞"
+					"match": "＜.*＞"
 				}		
 			]
 		},
