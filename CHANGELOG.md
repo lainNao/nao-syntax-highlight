@@ -5,3 +5,6 @@
 
 ## 0.3.15
 - support `.txt`
+
+## 0.3.17
+- fix `＜＞` highlight
