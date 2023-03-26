@@ -2,12 +2,16 @@
 
 ## Description
 
-VSCode extension for `.nao` and `.txt` extension file (super simple markdown for me).
+VSCode syntax highlight extension for `.nao` and `.txt` extension file (super simple markdown for me).
 
-```
-//...
-■...
-＜...＞
+![usage](https://i.imgur.com/kZiJ5O2.png)
+
+Syntax:
+
+```txt
+// some text
+■ some text
+＜some text＞
 ```
 
 ## Install from local
