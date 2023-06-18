@@ -15,6 +15,7 @@ Syntax:
 ```
 
 ## Install from local
+
 1. clone
     - `git clone https://github.com/lainNao/nao-syntax-highlight`
 2. build
@@ -23,12 +24,15 @@ Syntax:
     - `code --install-extension <now-created-file-name>`
 
 ## Install from Marketplace
+
 search `nao-syntax-highlight` in vscode extension
 
 ## Local development
+
 - `F5` to open debugging window
 
 ## Update extension
+
 1. get access token from `dev.azure.com`
 2. upload
-   - `vsce publish [major|minor|patch]`
+    - `vsce publish [major|minor|patch]`
